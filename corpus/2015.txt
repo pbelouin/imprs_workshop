@@ -1,0 +1,431 @@
+Deux Projets D'Édition Numérique Dans Le Cadre Du Projet SyMoGIH: Le Journal De Léonard Michon Et Les Actes Des Synodes Des Églises Réformées De Bourgogne
+Visualizing Mouvance: Towards an Alignment of Medieval Vernacular Text Traditions
+Mapping Languages Performance by Performance
+A Study of Knowledge Integration in Digital Humanities Based on Bibliographic Analysis
+Verbal Identity of a Fictional Character: a Quantitative Study with a Machine Learning Experiment
+Combining Corpora and Statistics using Geographical Technologies: New Evidence on Nineteenth Century Infant Mortality Decline in England and Wales
+Digging into ECCO: Identifying Commonplaces and other Forms of Text Reuse at Scale
+Read, Play, Build: Teaching Sherlock Holmes through Digital Humanities
+Change, Transition and Governance: Lessons from a Long-Term, Large Scale DH Collaboration
+Modelling Music Reception: An Ontology For Representing Interpretations of Richard Wagner's Leitmotifs
+Authorship Attribution of Mediaeval German Text: Style and Contents in Apollonius von Tyrland 
+What Do Boy Bands Tell Us About Disasters? The Social Media Response to the Nepal Earthquake 
+Méthodes computationnelles et analyse d'une langue de chancellerie : le logiciel d'analyse textuelle Machiato et la correspondance diplomatique et administrative de Machiavel
+Digital Literary Stylistics Workshop
+Free FannyPacks: A Model for the Easy Digital Publication of Archival Periodical Material
+Where Close and Distant Readings Meet: Text Clustering Methods in Literary Analysis of Weblog Genres
+Building Large Persons’ Networks to Explore Digital Corpora 
+From Ashes to Ashé: Digital Disaster Archives as Memorials
+Microanalyzing Parts of Texts
+Making George Washington's Financial Documents Accessible: Transcription, Data, and the Drupal Solution 
+Developing Local Digital Humanities Communities: The Atlanta Studies Network
+Towards an XML Corpora Exposition as LOD with the Lightweight Xquery-Based Framework SynopsX
+Tool-based Identification of Melodic Patterns in MusicXML Documents
+Music Information Retrieval Algorithms for Oral History Collections
+Biblissima - Following Medieval Manuscripts and Incunabula through their Existence via a Semantic Web Application
+A new approach to libraries in the Digital Humanities: the case of “Fonte-Gaia”
+Rebuilding Digital Harlem for Sustainability and Change
+RAPSCAPE – un’esplorazione dell’universo linguistico del rap attraverso il text-mining e la data-visualization
+Regional Digital Humanities Consortia: An Emerging Formalization of Informal Network Ties?
+Etymology Meets Linked Data. A Case Study In Turkic 
+Crosslingual Textual Emigration Analysis 
+When Traditional Ontologies are not Enough: Modelling and Visualizing Dynamic Ontologies in Semantic-Based Access to Texts 
+Diachronic Semantic Lexicon of Dutch (Diachroon semantisch lexicon van de Nederlandse Taal; DiaMaNT)
+Straight Talk! Automatic Recognition of Direct Speech in Nineteenth-Century French Novels 
+Die digitale Modellierung experimenteller Druckgrafiken des 15. Jahrhunderts. Anforderungen und Chancen computerbasierter Dokumentationsverfahren
+Computation-Aided Analysis on Film Credits
+Choosing Words for Stylometric Authorship Attribution Evaluating Most Distinguishing Words (MDWs) vs. Most Frequent Words (MFWs)
+Making Sense of Illustrated Handwritten Archives
+Mapping Imagined and Experienced Places: An Exploration of the Geography of Willa Cather’s Writing
+Defining the Core Entities of an Environment for Textual Processing in Literary Computing 
+SpotiBot-Turing testing Spotify
+OVAL: A Virtual Ecosystem for Immersive Scholarship and Teaching
+Performance, the Document, and the Digital: the Case of Lynn Hershman Leeson’s ‘Robertas’
+Arduino Circuits and Javanese Puppets: ‘Re-materializing’ Digital Archives through Tangible Interfaces
+How IBM Watson Can Help Us Understand Character in Shakespeare: A Cognitive Computing Approach to the Plays. 
+Contextualizing Historical Places in a Gazetteer by Using Historical Maps and Linked Data 
+The Computer Graphic Simulation of the Battle at Mount Street Bridge. Problems, Perspectives, and Challenges
+Biographical Data Workshop: modeling, sharing and analyzing people’s lives 
+You Better Monetize! Monetization Strategies in Publishing and Disseminating Digital Scholarly ditions
+Discursive Constructions Of Culture: A Semantic Model For Historical Travel Guides.
+A Tool for NLP-Preprocessing in Literary Text Analysis
+vWise: Visual Workspace for Information Seeking and Exploration
+Exploring and Evaluating Cartographic (miss)Representation in a Sample of Web-based Geohumanities Projects
+Mining Leitmotif in James Joyce’s ‘Ulysses’
+Annotating and Georeferencing of Digitized Early Maps
+Translation Hack-a-thon!: Applying the Translation Toolkit to a Global dh+lib
+Development of a Support Tool for Categorizing Ukiyo-e’s Pictorial Themes: A System to Deal with Visual Features and Similarities
+Work In A Globalised World. Allocation Algorithm To Add Labour Relations To Digitised Census Data
+Abbreviations In Manuscripts – Systematization And Crowdsourcing By Ad Fontes
+Corpus of Ioannes Dantiscus’ Texts and Correspondence dantiscus.al.uw.edu.pl
+Projet Odysseus, Outil d’Etudes Comparatives Du Traductologue 
+The digital breadcrumb trail of Brothers Grimm
+If You Build It Will They Come? Digital Infrastructure And Disciplinary Practice In Language Documentation
+Web Communities Mapping With Hyphe How to use a curation-oriented web crawler to map communities? 
+Erlebter Raum im Rom der späten Republik - eine digitale Forschungsumgebung
+Who’s Doing What?: Examining The Relationships Among Subjectivity, Agency, and Syntax In The 19th Century Novel
+Frequency and Meaning
+Exploring the Rules of Rhyme: Operationalizing Historical Poetics
+Time Series Analysis Enhances Authorship Attribution
+Museum Digitization Practices Across Russia: Survey and Web Site Exploration Results
+Metacanon.org: Digital Humanities and the Canon
+Using Big Cultural Data To Understand Diversity And Reciprocity In The Global Flow Of Contemporary Cinema
+Playable Books at Electronic Literature’s Interface
+Towards a Cross-generation Social Network for Jewish Sages
+Digital Humanities in Cultural Areas Using Texts That Lack Word Spacing
+Digital History “From Below”: a Call to Action
+Authorship Verification with the Ruzicka Metric
+Publishing Second World War History as Linked Data Events on the Semantic Web
+Stylometry on the Silver Screen: Authorial and Translatorial Signals in Film Dialogue
+Modelling Taxonomies of Text Reuse in the Deipnosophists of Athenaeus of Naucratis: Declarative Digital Scholarship
+The Corpus of Revenge Tragedy (CoRT): Toward Interdisciplining Early Modern Digital Humanities and Genre Analysis
+À la Croisée des Discours Littéraire et Scientifique : La Comparaison comme Haute Figure Dialogique
+Are the Digital Humanists Prepared for Open Access to Research Data ?
+Language Attitudes of Twitter Users Toward New York City English
+Critical Edition as Graph: The Chronicle of Matthew of Edessa Online
+eComparatio - Editionsvergleich
+Early English Books in Context: Towards a History of the Technological Humanities
+Exploring Networks Of Confidentiality And Secrecy In Early Modern Transconfessional Correspondences
+Mobile Makerspaces: Te(a)chnology, Design and Digital Humanities
+Adding Semantics To Comics Using A Crowdsourcing Approach
+Public and Private Views of Texts in Digital Editions – The Case of the Kanseki Repository 
+Editing in a text-image-sound form: the eTalks
+From Language Revolution to Revolutionary Language
+Creating A Management Plan For A Cultural Heritage Project - Best Practise
+Audiovisual Data And Digital Scholarship: Towards Multimodal Literacy
+Representations Of Race: Mining Identity In American Fiction, 1789-1964
+From Order to Order Switch. Mediating between Complexity and Reproducibility in the Context of Automated Literary Annotation
+An Augmented Reality Mobile Application for Intergenerational Learning and Critical Connection Experiencing The Histories of Flushing Meadows Park
+Contextualized Integration of Digital Humanities Research: Using the NeMO Ontology of Digital Humanities Methods
+Éditions Critiques Électroniques Et Structuration Du Contenu Sur Les Plateformes De Consultation Numériques : Normes Et Pratiques.
+Urban Youth and Community Media: A Digital Place-Making Process in Vanuatu
+Textual Communities
+Photogrammar
+GLAMorous! Edizione Digitale Di Beni Culturali Con Contenuto Testuale, Multidisciplinarietà Ed Epigrafia Digitale. 
+The Models of Authority Project: Extending the DigiPal Framework for Script and Decoration
+The Kuzushiji Project: Developing a Mobile Learning Application for Reading Early Modern Japanese Books
+Digital Resources and Research Data in the Digital Humanities: The Digital Knowledge Store at the Berlin-Brandenburg Academy of Sciences and Humanities 
+Music notation addressability 
+Prototypes as Thinking through Making. Decision Points and Evaluation in Prototyping a Visualisation Framework for Historical Documents
+Implementing Canonical Text Services in the Croatiae Auctores Latini Digital Collection 
+Digital Folkloristics: the Use of Computational Methods in Revealing the Characteristics of Folkloric Communication
+An OWL 2 Formal Ontology for the Text Encoding Initiative
+Digital Palaeography: What is digital about it?
+Indigenous digital humanities. Participatory geo-referenced-mapping and visualization for digital data management platforms in digital anthropology
+The journal _al-Muqtabas_ between _Shamela.ws_, HathiTrust, and GitHub: producing open, collaborative, and fully-referencable digital editions of early Arabic periodicals---with almost no funds.
+Du Texte Antique À La Publication Scientifique : Outils D’Analyse Numériques Des Contenus Et Ponts Conceptuels. 
+Digital Humanities Pedagogy as Digital Liberal Arts: A Framework for Curriculum Development
+Digitally Mapping Romantic Literature and Culture
+Anonymity and Online Discussion: A New Framework for Analysis
+Visual Forms of Information Presentation and Their Place in Formal Digital Scientific Communication
+From Keyword Search To Discourse Mining - The Meaning Of Scientific Management In Dutch Vocabulary, 1900-1940
+Climate Negotiation Analysis
+The Latin of Matthew of Cracow (c. 1345 – 1410) – a corpus based study of his language and style
+Testing Delta on Chinese Texts
+Full Stack DH: Building a Virtual Research Environment on a Raspberry PI
+The Categories of Philosophy in the Digital Era 
+Digicraft and 'Systemic' Thinking in Digital Humanities
+Sustainable publishing - Standardization possibilities for Digital Scholarly Edition technology
+Dépasser La Liste : Quand La Bibliothèque Entre Dans La Danse Des Corpus Web
+correspSearch - A Web Service to Connect Diverse Scholarly Editions of Letters
+Live/Life Stories. The Uses Of Digital War Testimonies In Educational Contexts
+Two Centuries of Russian Roads – Diachronic Study of Polysemy in the Context of Cultural Change
+Authorship Attribution Using Different Languages
+Data Praxis in the Digital Humanities: Use, Production, Access
+The Trace of Theory: Extracting Subsets from Large Collections
+The »Hidden Kosmos« of scientific instruments in Alexander von Humboldt's »Vorlesungen über physikalische Geographie« – or: What on earth is an »Ariometer«? 
+Linguistic DNA: Modelling Concepts and Semantic Change in English, 1500-1800
+Linking Qualitative and Quantitative Research by Thin Descriptions through Semantic Graphs. Experiments in Apparatus Design with Semantic CorA.
+Mapping Multilingual Responses To Famine And Dearth In The Early Modern Landscapes Of India And Britain
+Does Character Speech Matter? A Quantitative Approach
+A Comparative Analysis of Bibliographic Ontologies: Implications for Digital Humanities
+Authorial {X}: A Research and Teaching Platform for Literary Geography
+Addressing Torture in Iraq through Critical Digital Media Art—Hearts and Minds: The Interrogations Project
+Compiling a Database on Historical China from Local Records: The Local Gazetteers Project at MPIWG
+Metaphor Mining in Historical German Novels: Using Unsupervised Learning to Uncover Conceptual Systems in Literature.
+Tracing the Genesis of Pessoa's Envisioned Work: a Digital Edition of his Editorial Projects and Publications 
+A Method for Record Linkage with Sparse Historical Data
+The Scholarly Digital Edition: Best Practices, Guidelines, and Peer Evaluation
+Digging the Aboveground: Visual Archeology of an Asylum
+Testing the Doctrine of Election: A Computational Approach to Karl Barth’s Church Dogmatics
+A Management of Personal Name with Alternate Name and its Searching for Japanese Historical Study
+Flexible Community-driven Metadata with the Component Metadata Infrastructure
+Diachronic changes of the Russian Presidential Addresses to the Federal Assembly: From the perspective of archetype key words 
+Exploring The History Of The Qur’an Digitally
+The Attribution of the Lazarillo de Tormes. Shedding Some Light into a Centuries Old Problem 
+Measuring the Dynamics of Lexico-Semantic Change Since the German Romantic Period
+The First World War in Perm Provincial Periodicals
+The Online Archive "Forced Labor 1939-1945. Memory and History". A digital Application for Research and Education
+"El Atambor de Plata Suena como Cascaveles de Turquesa". Reconstrucción de la Experiencia Sonora de la Colonización Europea (c. 1480-1650) a Través de un Glosario y un Tesauro Digital
+Project COLEM for CREATE (University of Amsterdam) Adapting NPL-Tools for Creating an Orthographic Layer for Early Modern Dutch Texts
+Studying Linguistic Changes on 200 Years of Newspapers
+EVT 2.0: a new architecture for critical editions in digital form
+If Paintings were Plants: Measuring Genre Diversity in Seventeenth-Century Dutch Painting and Printmaking
+Linguistic Variation In The Hebrew Bible: Digging Deeper Than The Word Level
+Detecting Musical Paratext at Scale 
+Qu’est-ce qu’un texte numérique? A New Rationale for the Digital Representation of Text
+Enabling Complex Analysis of Large-Scale Digital Collections: Humanities Research, High Performance Computing, and transforming access to British Library Digital Collections 
+The Latin Batrachomyomachia Collection
+Bridging the Gap: the Digital Innovation Group
+A lesson in applied minimalism: adopting the TEI processing model 
+Textual Variation, Text-Randomization, and Microanalysis
+File Formats for Archiving: Stability and Persistence Issues
+Geography Of Russian Poetry: Countries And Cities Inside The Poetic World 
+Evaluating Modal Use in News Corpus for Constructing Rhetorical Context of Historical Event
+Faraway, So Close!: Reading Adeline Mowbray Closely Using Topic Modelling
+Researchers to your Driving Seats: Building a Graphical User Interface for Multilingual Topic-Modelling in R with Shiny
+Project Dialogism: Toward a Computational History of Vocal Diversity in English-Language Literature
+A Workflow for Encoding and Publishing Inscriptions
+Faceting and Mining Network Graphs 
+Beyond Shot Lengths – Using Language Data and Color Information as Additional Parameters for Quantitative Movie Analysis
+Academic Pillow-Talk and Two Immersive Explorations of Linguistic Space
+Digital Archiving and Storytelling in the Classroom with Omeka and CurateScape
+Quantitative Analyses of Chinese Poetry of Tang and Song Dynasties: Using Changing Colors and Innovative Terms as Examples
+Visual Network Analysis with Gephi Workshop Collective Interpretation of DH Communities Through Twitter Networks
+Access, Ownership, Protection: The Ethics of Digital Scholarship
+A Demonstration of Multispectral Imaging
+Crossed Semantic Analysis of Literary Texts with DeSeRT
+Writing Composition in the Close Reading Cycle: Developing The Annotation Studio Idea Space
+Research Data in the Humanities: Present, Preserve and Share
+New Maps for the Lettered City: a Data Visualization Exploration of 19th Century Salons in Mexico
+Excerpta Constantiniana: From Palimpsest to a Digital Edition of a Medieval Encyclopaedia
+Automatisation Du Workflow Audiovisuel, Quel Impact Sur Le Spectateur ? 
+Remediations of Polish Literary Bibliography: Towards a Lossless and Sustainable Retro-Conversion Model for Bibliographical Data
+The Mutual Relationship of Linguistic and Non-linguistic Elements in Breaking Down the Hierarchy of Language in Digital Narrative
+Sequentiality in Genetic Digital Scholarly Editions. Models for Encoding the Dynamics of the Writing Process
+Reflectance Transformation Imaging (RTI) for Cultural Heritage Artefacts
+Translating Electronic Literature. Multicultural, Multilingual and Cross-Platform Encounters
+Institutionalizing and implementing the Digital Yiddish Theatre Project
+Regional Classification of Traditional Japanese Folk Songs from the Chugoku District
+Scholarly Requirements for Large Scale Text Analysis: A User Needs Assessment by the HathiTrust Research Center
+Contextualizing Receptions of World Literature by Mining Multilingual Wikipedias
+Boundary Land: Diversity as a defining feature of the Digital Humanities 
+Adding Flexibility to Large-Scale Text Visualization with HathiTrust+Bookworm
+Git-Lit: an Application of Distributed Version Control Technology toward the Creation of 50,000 Digital Scholarly Editions
+The School of Salamanca on the Semantic Web 
+Digitale Tools und Methoden für die geisteswissenschaftliche Forschung praxisnah erklärt: Ein neues Format im Test.
+Seeing Andalucia's Late Gothic heritage through GIS and Graphs
+Taalportaal: A New Tool For Linguistic Research
+GAMS and Cirilo: research data preservation and presentation
+Conjuring up the Artist from the Archives: Ivar Arosenius. Digitization and Coordination of Archives for Enhanced Accessibility and Research
+Automatic quotation detection in Russian nonfiction texts
+An Islamic Manuscript Database as a Network of Objects 
+RICardo Project : Exploring 19th Century International Trade
+Ruthenian Metrica : technological aspects of the electronic publication
+Exploring and Discovering Archive-It Collections with Warcbase
+Collaborative Translation Using FromThePage
+A DH-Leavened Musicological Toolbox
+Ancient Maya Writings as High-Dimensional Data: a Visualization Approach 
+View Source: Reading the Hidden Texts of the Web
+The Royal Society Corpus: Towards a high-quality corpus for studying diachronic variation in scientific writing 
+Archives Distant Reading: Mapping the Activity of the League of Nations’ Intellectual Cooperation
+Agréger le passé en ligne: Euchronie, le passé ici et maintenant!
+EDM in Use: Collecting Metadata for a Regional Cultural Heritage Portal
+Comparing Architectural Floor Plans: New Strategies New Digital Tools For Architectural Historians
+From Handwritten Text to Structured Data: Alternatives to Editing Large Archival Series
+Extraction and Visualization of Toponyms in Diachronic Text Corpora 
+Le Futur Du Livre Électronique En Accès Libre : L’exemple De La Collection "Parcours Numériques"
+Representación De Otras Literaturas Mexicanas En Medios Digitales
+Documenting the pain: Sharing Second World War survivors’ stories to help meaning making and lessons learning through curating trans-European digital narrative trajectories
+Geocoding Thousands of Fiscal Records: Methodological Approach for a Study on Urban Retail Trade in the Belle Époque
+Boutique Big Data: Reintegrating Close and Distant Reading of 19th-Century Newspapers
+New DH Publishing Models and Geopolitical Diversity
+3D Scanning for Preservation: Difficulties and Dissemination
+Teaching Digital Humanities Through a Community-Engaged, Team-Based Pedagogy
+Modelling between Digital and Humanities: Thinking in Practice 
+Player-Driven Content: Analysing Textual Communications in Online Roleplay
+Picture to Score: Driving Vector Animations with Music in the XML Ecosystem
+Visualizing the Gradual Production of a Text
+Oulipian Stylometry
+Social Networks and Archival Context: People and Cultural Heritage
+The Garden: A 3D Adventure Puzzle Game Exploring Bosch’s Garden of Earthly Delights
+Automatic Emotion Detection for Quantitative Literary Studies * A case study based on Franz Kafka’s “Das Schloss” und “Amerika”
+Curating Just-In-Time Datasets from the Web
+Browsing, Sharing, Learning and Reviewing the Haine du théâtre Corpus through Insightful Island
+Big Data and the Study of Allusion: an Exploration of Tesserae's Multitext Capability
+Collaborative Annotation and Exploration of Literary Works in Learning Contexts
+ARLO (Adaptive Recognition with Layered Optimization): a Prototype for High Performance Analysis of Sound Collections in the Humanities
+1 Million Dutch Newspaper Images available for researchers: The KBK-1M Dataset
+Digital Annotation Tooling for Opera Performance Studies 
+What's in a Topic Model I fondamenti del text mining negli studi letterari
+Tackling Terms In Furetiere’s 'Dictionnaire Universel'
+The Encoded Medieval Antiphoner: an Open Access Digital Source for Music and Liturgical Pedagogy and Scholarship
+An Iterative 3DGIS Analysis of the Role of Visibility in Ancient Landscapes
+Documenting Material Culture: 3D Laser Scanning, Photogrammetry and Archaeological Ceramics from Lincoln Pottery Works
+Content Based Social Network Analysis of Reşat Nuri Güntekin's Letters
+Stefan George Digital: Exploring Typography In A Digital Scholarly Edition 
+The Southern Netherlands and the Infrastructure of Early Modern Globalisation (1500-1800)
+Wired!: Collaborative Teaching & Critical Digital Making In An Art History Classroom
+Mapping European Periodical Counterpublics: Building a Sustainable Collaborative Framework for European Periodical Studies
+Implementation of a National Data Center for the Humanities (DaSCH)
+Sussex Humanities Lab - Emotion, Automation and Sonic Socialities 
+Comparing Digital Scholarly Editions 
+Recovering Shared Heritage via Spectral Imaging: Problems, Solutions, Interpretations
+Mining Texts with the Extracted Features Dataset
+Moving Images and the Connection to other Media Types 
+The Formation of Australia’s Economic History Community, 1950 – 1970: A Multidimensional Network Analysis
+The DEFC-App: A Web-based Archaeological Data Management System for ‘Digitizing Early Farming Cultures’
+The Holy and the Godless - Cultural Stereotypes Featured in the Language of the Polish Medieval Hagiography. A Corpus-based Study.
+SMTP: Stedelijk Museum Text Mining Project
+Mnemosyne: A Smartlibrary for Rare and Forgotten Texts
+Linking Graph With Map For The Purpose Of Historical Research
+The Lifecycle of a Digital African Studies Projects: Creating Sustainable, Equitable, and Ethical Projects
+Blacks In American Medicine Archive: Exploring Forgotten Stories
+Wikidition: Towards A Multi-layer Network Model of Intertextuality 
+REDEN ONLINE: Disambiguation, Linking and Visualisation of References in TEI Digital Editions
+Thresholds: Valuing the Creative Process in Digital Publishing 
+The GeoHumanities Special Interest Group: Fostering and facilitating the geospatial turn
+Converting the Liddell Scott Greek-English Lexicon into Linked Open Data using lemon 
+The Stanford Code Poetry Slam through Critical Code Studies
+DH Bridge: Teaching Computational Thinking in the Humanities 
+Literary Concepts: The Past and the Future 
+Assessing a Shape Descriptor for Analysis of Mesoamerican Hieroglyphics: A View Towards Practice in Digital Humanities 
+DH Poetry Modelling: a Quest for Philological and Technical Standardization
+Reconstructing Past Teaching
+#dariahTeach: online teaching, MOOCs and beyond
+Topic Modeling Literary Quality 
+Visualising Cultural Spheres – Virtual Tours and Epigraphical Data 
+Creating An EpiDoc Corpus for Ancient Sicily 
+Bringing Migration Data Into Context Using Digital Computational Methods 
+Repairing William Playfair: Digital Fabrication, Design Theory, and the Long History of Data Visualization
+Toward A Use-Value Paradigm For The Sustainability Of Digital Research
+Pundit. Semantic Annotation for Digital Humanities
+Evaluating GitHub as a Platform of Knowledge for the Humanities
+The Great War on the Web: the Making of Citing and Referencing by Amateurs
+Preserving Ireland’s Digital Cultural Identity towards 2116
+Trading Zones of Digital History
+Intersectional Scholarship in Electronic Literature and Digital Humanities
+Khepri - a Modular View-Based Tool for Exploring (Historical Sociolinguistic) Data 
+Playing With Cultural Heritage Through Digital Gaming: The New Narrative of the ARK4 Project
+Entities as topic labels: improving topic interpretability and evaluability combining Entity Linking and Labeled LDA
+The Manuscripts of David Livingstone and New Frontiers for Spectral Imaging
+Theatre Plays as 'Small Worlds'? Network Data on the History and Typology of German Drama, 1730–1930
+Introducing HistoGraph 2: Exploration of Cultural Heritage Documents Based on Co-Occurrence Graphs
+Researchers’ perceptions of DH trends and topics in the English and Spanish-speaking community. DayofDH data as a case study.
+Outliers or Key Profiles? Understanding Distance Measures for Authorship Attribution 
+Invisible Cities In Literature And History: Interfaces To Scalable Readings Of Textual And Visual Representations Of The Imaginary
+Notes from the Transcription Desk: Modes of engagement between the community and the resource of the Letters of 1916
+Working with WissKI – A Virtual Research Environment for Object Documentation and Object-Based Research 
+Schrifttanz: Written Dance/Movement Poems
+Big Data: Complex Systems and Text Analysis
+Unlocking The Mayan Script With Unicode
+The Evolution of Virtual Harlem: Bringing the Jazz Age to Life
+Visual Patterns Discovery in Large Databases of Paintings
+Toccata : Text-Oriented Computational Classifier Applicable To Authorship
+The symogih.org Project: Towards an International Consortium 
+Web Historiography - A New Challenge for Digital Humanities?
+Comparison of Methods for the Identification of Main Characters in German Novels
+CORE - A Contextual Reader based on Linked Data 
+WebSty – an Open Web-based System for Exploring Stylometric Structures in Document Collections
+The Trajectories Tool: Amplifying Network Visualization Complexity
+Interoperability: a new horizon for data sharing in Humanities and Social Sciences. The input of three digital services developed by Huma-Num 
+Cantus Network – a Semantically Enriched Digital Edition of Libri Ordinarii of the Salzburg Metropolitan Province
+Curating Community: Building A Communications Strategy For The European Association For Digital Humanities
+Stylochronometry and the Periodization of Samuel Beckett’s Prose
+Pulp Science Fiction's Legacy to Women in Science 
+DIVAServices-Spotlight – Experimenting with Document Image Analysis Methods in the Web
+Jonathan Edwards and Thomas Foxcroft: In Pursuit of Stylometric Traces of the Editor
+Using Computer Numerical Control Techniques to Prototype Media History
+Historical Linguistics’ New Toys, or Stylometry Applied to the Study of Language Change 
+From Digitization to Knowledge: Resources and Methods for Semantic Processing of Digital Works/Texts
+KARREK: Building and Annotating a Kafka/Reference Corpus
+A Place for Places: Current Trends and Challenges in the Development and Use of Geo-Historical Gazetteers 
+Digital Data Sharing: Opportunities and Challenges of Opening Research
+When DH Meets Law: Problems, Solutions, Perspectives 
+The Digital Émigré: Russian Periodical Studies and DH in the Slavic Fields
+CTRaCE: Canonical Text Reader and Citation Exporter 
+The North Carolina Jukebox Project: Archives Alive and the Making of Digital Cultural Heritage
+On the Distant Reading of Musicians' Biographies 
+All in the Family: Testing Burrows’ Delta on Robert Louis Stevenson’s Collaboratively Authored Volumes The Dynamiter and The Wrecker
+ITAF: Rewiring the Italian ‘Nation’ of the Army of Flanders (1567-1714)
+Harvesting History: Democratizing The Past Through The Digitization Of Community History
+Beyond Digital Humanities? Furthering the Exploration of Language Diversity and Pan-European Culture by Means of Transdisciplinary Research Infrastructures: Introducing the new DARIAH CC Science Gateway 
+#ww1. The Great War on Twitter
+Printing in a Periphery: a Quantitative Study of Finnish Knowledge Production, 1640-1828
+Creating Feminist Infrastructure in the Digital Humanities
+Constructing Evidence in the Photographic Archive: The Experience of Digital Humanists
+TEI Processing Model Toolbox: Power To The Editor 
+Challenges in Setting up a Digital Humanities Centre in Romania
+Enhancing Close Reading 
+Corpus Analyses of Multimodal Narrative: The Example of Graphic Novels
+Morphology beyond inflection. Building a wordformation based dictionary for Latin
+A Web-based Tool Called Gauntlet: From Iterative Design To Interactive Drawings Annotation
+Notoriously Toxic: The Language and Cost of Hate in the Chat Systems of Online Games
+Standardized Digital workflow for Archiving Local Knowledge 
+APIs in Digital Humanities: The Infrastructural Turn
+A literary rat race
+Approaches to Thematic Classification for Latin Epic
+Silva Portentosissima - Computer-Assisted Reflections on Bifurcativity in Stemmas 
+"A Model for International Cooperation: Emblematica Online and Linked Data in Research and Pedagogy"
+Named Entity Extraction from digitized texts of Mongolian Historical Documents in Traditional Mongolian Script
+Bretez : Conjugaison du passé au futur
+Digital Criticism Platform for Evidence-based Digital Humanities with Applications to Historical Studies of Silk Road
+Countering Counter Mapping Methods: Constructing A Humanities GIS Methodology In the Age of Electracy
+Mapping the Bentham Corpus
+Significance Testing for the Classification of Literary Subgenres
+WordPress as a Framework for Automated Data Capture, Filtering and Structuring Processes. The New Order of the Authors
+Minimal Editions in the Classroom: A Pedagogical Proposal 
+Déchiffrer Le Mythe De l’Amour
+Materiality and Metadata of Digitised Photographs: A Theoretical Inquiry
+Scholarly Research Activities and Digital Tools: When NeMO met FLOSS
+Automatic Detection of Characters in Case Insensitive Text in Comics 
+The Digital Scholarship Training Programme at British Library: Concluding Report & Future Developments
+Computers on Law and Order
+"Commens Digital Companion to Charles S. Peirce "
+Chronological corpora: Challenges and opportunities of sequential analysis. The example of ChronoPress corpus of Polish
+First We Feel Then We Fall - Multimedia Adaptation of Joyce's Finnegans Wake
+Using Big Data Techniques For Searching Digital Archives: use cases in Digital Humanities
+Visualisation Strategies for Comparing Political Ideas with the ORATIO Platform 
+Engaging Students in Digital Literary Analysis: GALGO (Golden Age Literature Glossary Online), a Social Semiotic Platform
+The Project Zeri Photo Archive: Towards a Model for Defining Authoritative Authorship Attributions
+Modeling as Discourse: The case for 3D
+Data mining digital libraries
+Playing with French Drama: from Old Research Questions to New Research Tools
+Complex Networks-Based Approach to Russian Rhyme History Description: Linguostatistics and Database
+EVI-LINHD. A Virtual Research Environment for the Spanish-speaking Community
+Diplomatic History by Data Understanding Cold War Foreign Policy Ideology using Networks and NLP
+SAMEBibl: Sistema Automático de Migración a Europeana para Bibliotecas.
+Cultivating Digital Humanities Biomes: A Collaborative Model
+Medialatinitas.eu. Towards Meaningful Integration and Retrieval of Resources for Medieval Latin 
+New Facets Of The Multimedia Annotation Tool ELAN
+Concept Modeling the Advertising Chinese Modern Society
+Diverse Digitalities: Targeted Models for Postcolonial Challenges in the Digital Discourse.
+Building Blocks of Fiction: Lexical Bundles in Nineteenth-Century Novels
+Collecting Judgments on Artworks Through a Similarity Game 
+Data-First Digital Humanities: How Adopting a Data-First Strategy Fosters Research, Collaboration, Pedagogy, and Scholarly Communication in the Digital Humanities
+Reconstruction of Labour Relations in the North Sea Region in the Late Middle Ages: Spatio-Temporal Analysis Using Historical GIS, Taxation Sources, and Coin Finds
+MEDEA (Modeling Semantically Enriched Digital Editions of Accounts)
+The Dialogic Turn and the Performance of Gender: the English Canon 1782-2011
+Reflecting On And Refracting User Needs Through Case Studies In The Light Of Europeana Research
+Tracking Online User Behaviour With A Multimethod Research Design
+Building Capacity with Care: Graduate Students and DH work in the Library
+Topical Diversification Over Time In The Royal Society Corpus
+Identity Lenses in Analyzing Evolving Social Structures
+Adding Value to a Research Infrastructure Through User-contributed ePublications
+Developing Competencies in Digital Scholarship Among Humanities Scholars
+Quality Matters: Diversity and the Digital Humanities in 2016
+Poetry in Prose: automatic identification of verses in brazilian literature
+El Uso de las Tecnologías Digitales para la Difusión del Patrimonio Cultural en México
+Mapping Kipnis
+Using Digital Editions to Analyze Iliadic Text Reuse and its Poetic Tradition
+The Ibn Darraj Project: SpatioTemporal Reasoning Engine Based on Evidence Combination *
+Multivalent reuse of web data about temporary art exhibitions: the Exhibitium project
+Some Problems in the Non-Traditional Authorship Attribution Studies of the Dramatic Canon of William Shakespeare: Are they Insurmountable 
+Cross-Institutional Music Document Search
+Linked Ancient World Data: Relating the Past
+Identifying the Same Ukiyo-e Prints from Databases in Dutch and Japanese
+Analyzing the 17th Century Theatre Critique Texts with a Semantic Annotation Tool Driven by a Dedicated Ontology
+Integrative 3D Recording Methods of Historic Architecture: Burg Hohenecken from Southwest Germany
+The Preparation of the Topic Model
+Introduction to Natural Language Processing
+UpCASE – A Web Application for Building and Maintaining Language Resources 
+Seeing the Argument: Visualize Your Database with DAVILA
+Visualising the Dynamics of Character Networks 
+From Index Cards to a Digital Information System: Teaching Data Modeling to Master's Students in History 
+RDA/ADHO Workshop: Evaluating Research Data Infrastructure Components and Engaging in their Development 
+Remapping Leigh Hunt’s Circles”: Voyant Tools and Hunt’s Dramatic Criticism
+“Digital” in practice: survey of Russian historians' research practices
+Go Set A Watchman while we Kill the Mockingbird in Cold Blood, with Cats and Other People 
+Taking VIVO into the Past: Adapting the VIVO Researcher Profile System to Historical Persons
+Edit Histories and Literary Turf Wars: John Ashbery, Academic Criticism and Wikipedia *
+Minimal Computing: A Workshop

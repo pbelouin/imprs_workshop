@@ -1,0 +1,720 @@
+Visual Analysis of Printed Illustrations using Computer Vision
+Bergel, Giles Edward; Dutta, Abhishek  27
+Navigating and Processing Data from the TEI with XSLT
+Beshero-Bondar, Elisa Eileen; Scholger, Martina; Nagasaki, Kiyonori  28
+Equity, Diversity and Inclusion for Digital Humanists
+Bordalejo, Barbara; O'Donnell, Daniel; Woods, Nathan . 30
+Introduction to DraCor – Programmable Corpora for Digital Drama Analysis
+Boerner, Ingo; Fischer, Frank; Milling, Carsten; Trilcke, Peer; Sluyter-Gäthje, Henny  32
+Writing a multilayered article for the Journal of Digital History
+Clavert, Frédéric; Elisar, Ori; Pfeiffer, Mirjam; Guerard, Elisabeth  35
+Tutorial on Fuzzy String Matching with DeezyMatch
+Coll Ardanuy, Mariona; Hosseini, Kasra; Nanni, Federico; Vitale, Valeria . 37
+Biographical Data in a Digital World 2022 (BD 2022) Workshop
+Daza, Angel; Fokkens, Antske; Hadden, Richard; Hyvönen, Eero; Koho, Mikko; Wandl-Vogt, Eveline  39
+Workshop: HathiTrust Research Center’s Extracted Features 2.0 Dataset
+Dubnicek, Ryan; Christie, Jennifer; Kudeki, Deren; Layne-Worthey, Glen; Walsh, John A.; Downie, J. Stephen  43
+A picture is worth a thousand words: Image analysis for the Digital Humanities
+James, Stuart; Aubry, Mathieu; Van Noord, Nanne; Garcia, Noa; Impett, Leonardo . 45
+Data and Algorithms in Critical Aging Studies
+Karadkar, Unmil; Kriebernegg, Ulla; Sawchuk, Kim; Taipale, Sakari; Ivan, Loredana  48
+Literary Text Analysis with Spyral Notebooks, a Notebook Environment Companion to Voyant Tools
+Land, Kaylin Catherine; Rockwell, Geoffrey; MacDonald, Andrew; Tchoc, Bennett Kuwan; Damasah, Elliot  50
+Making 3D-scans more mobile-friendly and increasing online audience reach: Introduction to manual retopology
+Leelasorn, Angel . 51
+Getting Started with the Advanced Research Consortium
+Liebe, Lauren; Mandell, Laura; Tarpley, Bryan  52
+Scholarly writing and editing with the text editor Stylo
+Mellet, Margot Lise; Fauchié, Antoine; Vitali-Rosati, Marcello  54
+Ugarit: Translation Alignment Technologies for Under-resourced Languages
+Palladino, Chiara; Yousef, Tariq; Shamsian, Farnoosh; Kanagawa, Nadia . 55
+From Concepts to Textual Phenomena and Back: Operationalization in the Digital Humanities
+Pichler, Axel; Krautter, Benjamin; Pagel, Janis; Andresen, Melanie  57
+Hands-on Introduction to eScriptorium, an Open-Source Platform for HTR
+Stokes, Peter Anthony; Stökl Ben Ezra, Daniel  58
+Text and data mining for East Asian sources in classical Chinese
+Sturgeon, Donald  61
+Git for Humanists: Versioning Research and Code
+Tagliaferri, Lisa  63
+How to Set Up a Web Server for Teaching and Research in the Humanities
+Tagliaferri, Lisa  63
+Panels
+Computer Vision for the Study of Printers' Ornaments and Illustrations in European Hand-Press Books
+Bahier-Porte, Christelle; Bergel, Giles; Dutta, Abhishek; Fournel, Thierry; Thomas, Drew; Vial-Bonacci, Fabienne; Wilkinson, Hazel; Zisserman, Andrew; Denis, Loïc; Emonet, Rémi; Habrard, Amaury; Ventresque, Vincent; Gautrais, Thomas . 65
+The European Open Science Cloud (EOSC) and Its Implications for the Digital Humanities and Social Sciences
+Barbot, Laure; Gray, Edward; Fischer, Frank; Broeder, Daan; Ďurčo, Matej; Kleemola, Mari; Thiel, Carsten; König, Alexander  68
+Modelling and Operationalizing Concepts in Computational Literary Studies
+Brandes, Phillip; Dennerlein, Katrin; Jacke, Janina; Marshall, Sophie; Pielström, Steffen; Schneider, Felix  70
+The Politics of Digital Humanities Infrastructure and Sustainability
+Burkert, Mattie; Moore, Shawn; Gil, Alex; Liebe, Lauren; Nicosia, Marissa; Otis, Jessica; Wikle, Olivia; Williamson,
+Evan Peter; Becker, Devin  73
+Temporal Topologies: Inflecting the telling and the told of historical narratives
+Drucker, Johanna; Dörk, Marian; Morini, Francesca; LaCelle-Peterson, Nathaniel; Rinderlin, Jonas; Barker, Elton;
+Rosol, Christoph; Wintergruen, Dirk . 76
+Global Perspectives on Critical Infrastructure and the Digital Humanities Lab
+Hannah, Matthew Nathan; Connell, Sarah; Dodd, Maya; Ope-Davies (Opeibi), Tunde; Povroznik, Nadezhda;
+Rittenhouse, Brad  79
+The Ethical Considerations of Diverse DH Pedagogy
+Licastro, Amanda Marie; Stringfield, Ravynn K.; Earhart, Amy; Losh, Elizabeth . 82
+Digital debating cultures: Communicative practices on Reddit
+Messerli, Thomas C.; Dayter, Daria; Bohmann, Axel; Donlan, Lisa; Maccori Kozma, Gustavo; Leuckert, Sven;
+Liimatta, Aatu; Mahler, Hanna; Massanari, Adrienne; McConnell, Kyla; Tosin, Rafaela  83
+SpokenWeb: Curating Literary Sound in a Digital Environment
+O'Driscoll, Michael; Luyk, Sean; Kroon, Ariel; Morrison, Zachary; Ambarani, Tejas; Miya, Chelsea  87
+CLIP and beyond: Multimodal and Explainable Machine Learning in the Digital Humanities
+Offert, Fabian; Impett, Leonardo; Al Moubayed, Noura; Cetinic, Eva; Bell, Peter; Smits, Thomas; Leone, Anna; Watson, Matthew; Winterbottom, Tom; Kluvanec, Dan; Lawrence, Dan; Kosti, Ronak; Wevers, Melvin; Lefranc, Lith  89
+Books’ Impact in Digital Social Reading: Towards a Conceptual and Methodological Framework
+Pianzola, Federico; Viviani, Marco; Fossati, Alessandro; Boot, Peter; Fialho, Olivia; Koolen, Marijn; Neugarten, Julia; Van Hage, Willem Robert; Rebora, Simone; Herrmann, J. Berenike; Messerli, Thomas C.; Jorschick, Annett; Sharma, Srishti  94
+Dynamics of Culture: Tracing Discourse using Computational Methods
+Quinn, William Reed; Messina, Cara Marta; Connell, Sarah; Blankenship, Avery  98
+The (Im)Possibilities of Multilingual DH in Theory and Practice: Translation, Metadata, Pedagogy
+Raynor, Cecily; Ponce de la Vega, Lidia; Guénette, Marie-France; Kim, Eric; Brata Roy, Samya; Dombrowski, Quinn
+. 101
+Cultural Landscapes in Emerging Digital Scholarship: The Search of Conceptual and Computational Frameworks
+Streiter, Oliver; Chuang, Tyng-Ruey; Zhan, Hanna Yaqing; Hara, Shoichiro; Hung, Ying-Fa; Jang, Jr-Jie; Lee, Cheng- Jen; Mu, Yu-Chia Monica; Wang, Chia-Hsun Ally; Wang, Yu-Huang  104
+Long Presentations
+A Computational Approach to Epistemology in Poetry of the Long Eighteenth Century
+Algee-Hewitt, Mark Andrew  109
+Gender Assignment as an Event: a contemporary approach to adequately depict historical gender categories
+Andrews, Tara Lee; Ebel, Carla; Deierl, Marin . 111
+Online Readership and Perceptions of Genres Over Time
+Antoniak, Maria; Walsh, Melanie; Mimno, David . 113
+Manifesting the manifesto: DH and the climate crisis
+Baillot, Anne; Gil Fuentes, Alexander; Glover, Kaiama L; Peaker, Alicia; Roeder, Torsten; Scholger, Walter; Walton,
+Jo Lindsay  115
+DFG 3D-Viewer – Development of an infrastructure for digital 3D reconstructions
+Bajena, Igor Piotr; Dworak, Daniel; Kuroczyński, Piotr; Smolarski, René; Münster, Sander . 117
+Representing uncertainty and cultural bias with Semantic Web technologies
+Baroncini, Sofia; Daquino, Marilena; Pasqual, Valentina; Tomasi, Francesca; Vitali, Fabio . 120
+Beyond the Tracks: connecting people, places and stations to re-assess the impact of rail in Victorian Britain
+Beelen, Kaspar; McDonough, Katherine; Lawrence, Jon; Rhodes, Josh; Wilson, Daniel C.S.  122
+
+Machine Learning May Be the Future, but Can It Be the Past? What Machine Learning Systems May Mean for the Historical Concept of Provenance
+Benito-Santos, Alejandro; Doran, Michelle; Edmond, Jennifer; Therón, Roberto  124 Processing tangles in the Frankenstein Variorum
+Beshero-Bondar, Elisa Eileen; Borgia, Mia; Chan, Jacqueline; Viglianti, Raffaele  126
+Who’s In and Who’s Out: 10 Years On
+Bleeker, Elli; Beelen, Kaspar; Chambers, Sally; Koolen, Marijn; Melga-Estrada, Liliana; Van Zundert, Joris J.  128
+Exploring Lexical Diversities
+Blombach, Andreas; Evert, Stephanie; Jannidis, Fotis; Pielström, Steffen; Konle, Leonard; Proisl, Thomas . 130
+Support and Relationship Patterns in Endometriosis Narratives
+Bologna, Federica; Thalken, Rosamond; Mimno, David; Wilkens, Matthew . 134
+Distant reading of Russian Soviet diaries (Prozhito Database)
+Bonch-Osmolovskaya, Anastasia; Vorobieva, Viktoria; Kriukov, Artem; Podriadchikova, Maria  136
+Linguistic Injustice in Multilingual Technologies: arTenTen and esTenTen as case studies
+Bordonaba-Plou, David; Jreis-Navarro, Laila M.  140
+TikTok Cover Dances as Folkloric Practice: Pose Estimation and the Study of Variation in K-Pop Choreography across Short- Form Social Media Videos
+Broadwell, Peter; Tangherlini, Timothy R.  141
+Tools as Epistemologies in DH? A Corpus-Based Exploration
+Burghardt, Manuel; Luhmann, Jan; Niekler, Andreas . 144
+Evaluation of Multilingual BERT in a Diachronic, Multilingual, and Multi-Genre Corpus of Bibles
+Calvo Tello, José; De la Rosa, Javier  147
+Archive of the Digital Present (ADP), COVID-19 Period: Collecting and Visualizing Metadata of Online Literary Events Hosted in Canada, March 2020 - September 2021
+Camlot, Jason; Neugebauer, Tomasz; Berrizbeitia, Francisco; Joseph, Ben; Bustamante, Alexandre; Gandham, Sukesh
+. 151
+Textual, Metrical and Musical Stylometry of the Trouvères Songs
+Camps, Jean-Baptiste; Chaillou, Christelle; Mariotti, Viola; Saviotti, Federico . 155
+Data Diversity in handwritten text recognition: challenge or opportunity?
+Camps, Jean-Baptiste; Pinche, Ariane; Stutzmann, Dominique; Vernet, Marguerite; Vidal-Gorène, Chahan . 160
+Distant reading of handwritten mid-nineteenth century Ottoman population registers
+Can, Yekta Said; Kabadayi, M. Erdem  165
+Named Entity Disambiguation for the Qing Shilu without Manually Labeled Data
+Chao, Jo-Yu; Huang, Shi-Yun; Hsieh, Hsin-Yi; Tsai, Richard Tzong-Han  168
+Digital Narrative of Buddhist Cave Temples: A Case Study of Niche 28 of Huangze Temple in Guangyuan, Sichuan
+Chen, Wu Wei; Zuo, Lala . 171 A Novel Semi-supervised Framework to Identify Military Documents: A Quantitative Analysis on Military Records in Ming Shi-Lu
+Chen, You-Jun; Hsieh, Hsin-Yi; Tsai, Richard Tzong-Han  172
+Linked Open Dictionaries (2015-2022): Achievements, Experiences and Challenges with respect to LOD Technology in Linguistics and the Philologies
+Chiarcos, Christian; Ionov, Maxim; Fäth, Christian  176
+Building ETCSANS: The Electronic Text Corpus of Syntactically Annotated Neo-Sumerian
+Chiarcos, Christian; Page-Perron, Emilie  179
+Computational approaches to literary periodization: an experiment in Italian narrative of 19th and 20th century
+Ciotti, Fabio  181
+Building a journal for the digital era: the Journal of Digital History
+Clavert, Frédéric; Fickers, Andreas  183
+New ways to read Greek and Persian epic and to explore diverse cultures
+Crane, Gregory; Shamsian, Farnoosh; Babeu, Alison; Tauber, James; Wegner, Jacob  185 Good Grief! Encoding, Quantifying, and Analyzing Peanuts in the Classroom
+Croxall, Brian  188
+
+Multilinguals Write Back: Modeling Language, Politics and Identity in Philippine Social Media
+Cruz, Frances Antoinette; Kestemont, Mike  189
+Strategies for DH awareness-raising activities: the challenges of DH Awards
+Cummings, James  191
+Emotion courses in German historical comedies and tragedies
+Dennerlein, Katrin; Schmidt, Thomas; Wolff, Christian . 193
+Database Design and Identity: A Compromised Infrastructure
+Earhart, Amy . 197
+One word to rule them all: understanding word embeddings for authorship attribution
+Eder, Maciej; Šeļa, Artjoms . 199
+Measuring Keyness
+Evert, Stephanie  202
+Historical Research meets Semantic Interoperability: The Documentation System SYNTHESIS and its Application in Art History Research
+Fafalios, Pavlos  205
+Using Digital Tools to Detect Cross-Language Allusions in Voltaire
+Gawley, James  207
+Reforming the ‘Eng Lit’ canon: Measuring the myths and realities of English literary studies in India through a computational analysis of university curricula.
+Ghosh, Arjun . 209
+An Adaptive Methodology: Machine Learning and Literary Adaptation
+Glass, Grant  210
+Optical Character Recognition for Complex Scripts: A Case-study in Cuneiform
+Gordin, Shai; Romach, Avital . 212
+The many faces of theory in DH: Toward a dictionary of theoreticians mentioned in DH
+Gutiérrez de la Torre, Silvia E.; Burghardt, Manuel; Niekler, Andreas; Kleymann, Rabea . 215
+Out of the Slaughterhouse: The Birth of the Modern Detective Story Corpus
+Hammond, Adam; Stern, Simon  218
+Voices Speaking To and About One Another: Introducing the Project Dialogism Novel Corpus
+Hammond, Adam; Vishnubhotla, Krishnapriya; Mohammad, Saif M.; Hirst, Graeme . 220
+Realizing a multilingual tool for best legal and ethical practices in DH research: The ELDAH Consent Form Wizard as a model for community-driven internationalization
+Hannesschläger, Vanessa; Kuzman-Slogar, Koraljka; Scholger, Walter . 224
+CCVG Data: A Unique, Curated, and Searchable Chinese Village Dataset for Chinese Study Scholars
+He, Daqing; Ma, Rongqian; Zheng, Ruoyun; Zhang, Haihui  225
+Structuring the Management of Research Data - Reflections on Requirements and Service Concepts in Research Data Management in the Humanities
+Helling, Patrick  227
+Making Research Data FAIR. Seriously? - Reflections on Research Data Management in the Computational Literary Studies
+Helling, Patrick; Jung, Kerstin; Pielström, Steffen  230
+Building an OCR Pipeline for a Republican Chinese Entertainment Newspaper
+Henke, Konstantin; Arnold, Matthias . 233
+Townsend & Sons, Account Book Manufacturer’s Business Guide and Works Manual: 19th Century Primary Manuscript Source and TEI Encoding
+Hermsen, Lisa; Walker, Rebekah  236
+Interactive Visualization of Indigenous Territory: Mapping of the Attikamegues in Historical Maps
+Herold, Nastasia; Blicher Christensen, Mathilde; Jänicke, Stefan  238
+Using Word Embeddings for Validation and Enhancement of Spatial Entity Lists
+Herrmann, J. Berenike; Byszuk, Joanna; Grisot, Giulia  239
+How big can a static site be? Staticizing a census database
+Holmes, Martin; Newton, Greg . 241
+PRISMS: a new platform for digital Book History
+Huber, Alexander; Huber, Emma  243
+
+Everyday memory: A computational analysis of changing relation between past and present in Dutch newspapers in the twentieth Century
+Huijnen, Pim  246
+Mining for clean energy: a machine learning approach to historicized sentiment mining of fossil fuel discourse in the Netherlands
+Huijnen, Pim; Plets, Gertjan; Verheul, Jaap  249
+Participatory Action Research for a Digital Humanities research project: Investigating Open GLAM in the context of Social Movement Archives
+Humbel, Marco . 252
+Linked Data Approach for Studying Parliamentary Speeches and Networks of Politicians in Finland 1907-2021
+Hyvönen, Eero; Leskinen, Petri; Sinikallio, Laura; Drobac, Senka; Tuominen, Jouni; Elo, Kimmo; La Mela, Matti;
+Koho, Mikko; Ikkala, Esko; Tamper, Minna; Leal, Rafael; Kesäniemi, Joonas  254
+On the Road to Freedom: Network models of interviews of Czechoslovak respondents in the optics of audio-emotional analysis and computational linguistics.
+Iashchenko, Anatoly Vladimirovich  256
+Modelling Gender Diversity – Research Data Representation Beyond the Binary
+Illmer, Viktor J.; Poggel, Lisa; Diehr, Franziska; Drury, Lindsey  257
+Abstractness/ Concreteness as Stylistic Features for Authorship Attribution
+Ivanov, Lubomir  262
+Studying Signs of Use in Medieval Manuscripts: data collection through annotations
+Johnson, David F.; Girard, Paul; Simard, Benoît . 264
+Standards, the Standards-Making Process, and their Relevance to Stylometry
+Juola, Patrick  267
+Quantitative Analysis of Changes in Race and Role of Characters in Hollywood Movies over Time
+Kawase, Akihiro; Isogai, Kana  268
+Quantitative Analysis of Gendered Assumptions in a Nineteenth-Century Women’s Encyclopedia
+Ketzan, Erik; Hagen, Thora; Jannidis, Fotis; Witt, Andreas  270
+On Digitizing Historic Music Storage Media For Computational Analysis
+Khulusi, Richard; Fricke, Heike; Fuhry, David; Piontkowitz, Vera; Focht, Josef  274
+Book Barcoding: A Framework for the Visual Collation and Woodblock Tracking of Japanese Printed Books
+Kitamoto, Asanobu . 276
+Emotions and Literary Periods
+Konle, Leonard; Kröncke, Merten; Jannidis, Fotis; Winko, Simone  278
+Accuracy is not all you need
+Kristensen-McLachlan, Ross Deans; Lassen, Ida Marie S.; Enevoldsen, Kenneth; Hansen, Lasse; Nielbo, Kristoffer L.
+. 281
+Semantically-Grounded Generative Modeling of Chinese Landscapes
+Kulyabin, Mikhail; Kosti, Ronak; Bell, Peter  284
+From Roland to Conan: First results on the corpus of French literary fictions (1050-1920)
+Langlais, Pierre-Carl; Camps, Jean-Baptiste; Baumard, Nicolas; Morin, Olivier . 285
+Newspaper Navigator: Reimagining Digitized Newspapers with Machine Learning
+Lee, Benjamin Charles Germain  289
+Between Interactive Fictions and Visual Novels: Diversity of Agency in Videoludic Novels
+Lescouet, Emmanuelle; Dumoulin, Pierre Gabriel . 291
+Gender and Cultural Diversity in Chinese Children’s Picture Books: A Data-led Analysis of Bestselling Modern Titles
+Li, Yi; Terras, Melissa; Li, Yongning  292
+DH Pedagogies in the Global Souths
+Licastro, Amanda Marie; Roy, Dibyadyuti; Esprit, Schuyler Kirshten  295
+Rethinking the Advanced Research Consortium: Disciplinary Restructuring and Linked Open Data
+Liebe, Lauren; Mandell, Laura . 296
+Discovering Civil Disputes Hidden in the Court Judgment Documents for Applications in Social Studies and Legal Informatics
+Liu, Chao-Lin; Liu, Yi-Fan; Liu, Wei-Zhi; Lin, Hong-Ren  298
+
+Digital Resource Aggregation: Giving New Life to Multi-source Cultural Data
+Liu, Rui; McKay, Dana; Buchanan, George . 300
+Mining the Native American Authored Works in HathiTrust for Insights
+Lu, Kun; Heaton, Raina; Orr, Raymond; Vetter, Alyssa; Dubnicek, Ryan; Magni, Isabella . 301
+Applying LERA for collating witnesses of The Tale of Kiều, a Vietnamese poem written in Nôm script
+Luu, Thi Kim Hanh; Pöckelmann, Marcus; Ritter, Jörg; Molitor, Paul . 302
+A 3-D analytic framework of humanistic objects: data modeling paradigms, computational analysis and close reading
+Maeir, Noam; Keydar, Renana  305
+Towards Adaptive Retrieval Systems for Intertextuality Research: a case study on Biblical Intertextuality
+Manjavacas Arevalo, Enrique  307
+Aplicación de las Humanidades Digitales a los estudios sobre Teatro de la Antigüedad Clásica
+Martínez Nieto, Roxana Beatriz  308
+From Modern to Medieval: Detecting and Visualizing Entities in Manuscripts of Marco Polo's Devisement du Monde
+Meinecke, Christofer; Wrisley, David Joseph; Jänicke, Stefan  310
+A Five-Star Model for Linked Humanities Data Usability
+Middle, Sarah  313
+Exploring a cultural “filter bubble” in artwork databases of two large museums of fine arts
+Minster, Sara; Kizhner, Inna; Zhitomirsky-Geffet, Maayan  315
+EthicsBot: Provoking Ethical Reflection on AI
+Mousavi, Emad; Verdini, Paolo; Wang, Jingwei; Barnard, Sara; Rockwell, Geoffrey . 317
+Digital Resistance to Asian-American Hate during COVID-19: Study of Photography and Art on Instagram
+Nanditha, Narayanamoorthy . 318
+#METOO IN INDIA: MISOGYNY AND THE EMERGENCE OF THE MEN’S RIGHTS MOVEMENT ON TWITTER
+Nanditha, Narayanamoorthy . 320 Are Digital Humanities platforms sufficiently facilitating diversity in research? A study of Transkribus free processing requests.
+Nockels, Joseph Hiliary; Terras, Melissa; Gooding, Paul; Muehlberger, Guenter; Stauder, Andy . 321
+Small Data projects/Big Data research: contemporary problems and historical solutions
+O'Donnell, Daniel; Woods, Nathan; Bordalejo, Barbara  323
+Co-reference networks for dramatic texts: Network analysis of German dramas based on co-referential information
+Pagel, Janis  326
+Knowledge organization of the Hong Kong Martial Arts Living Archive to capture and preserve intangible cultural heritage
+Picca, Davide; Adamou, Alessandro; Hou, Yumeng; Egloff, Mattia; Kenderdine, Sarah  329
+The case for DH in Literary scholarship
+Pierazzo, Elena . 332
+Minor Labels: Detecting Genre in Pitchfork Reviews, a "Metamodularity" Network Analysis
+Porter, J.D.; Varner, Stewart  333
+Digitizing Derrida’s Concept of Dissemination: From Returntocinder.com to Databyss.org
+Reeder, Jake  335
+Locating a national collection through audience research
+Rees, Gethin  337
+Telescopic reading: Synthesizing meaning from reading at different scales
+Ringler, Hannah; Argamon, Shlomo  339 Archiviz: A Tool for the Interactive, Visual Exploration of Digital Archives
+Rittenhouse, Brad; Michney, Todd; Acosta, Ines  340
+Web Services for Voyant: LINCS, Voyant and NSSI
+Rockwell, Geoffrey Martin; Hervieux, Natalie; Zafar, Huma; Land, Kaylin; MacDonald, Andrew; Barbosa, Denilson;
+Frizzera, Luciano; Ilovan, Mihaela; Brown, Susan  342 From Cyclopaedia to Encyclopédie: Using Machine Translation and Sequence Alignment to Identify Encyclopedia Articles across Languages
+Roe, Glenn; Olsen, Mark; Morrissey, Robert  344
+Establishing parameters for stylometric authorship attribution of 19th-century Arabic books and periodicals
+Romanov, Maxim; Grallert, Till  346
+
+The Modernisa Project: Orthographic Modernization of Spanish Golden Age Dramas with Language Models
+De la Rosa, Javier; Cuéllar, Álvaro; Lehmann, Jörg  348
+Democratizing Poetry Corpora with Averell
+De la Rosa, Javier; Díaz, Aitor; Pérez, Álvaro; Ros, Salvador; González-Blanco, Elena  351
+Developing the Japanese Visual Media Graph: An Open Knowledge Graph for Researchers Working on Japanese Anime, Manga and Otaku Culture
+Roth, Martin; Pfeffer, Magnus; Kacsuk, Zoltan  354
+Digital Dating and its Discontents: AI, Masculinity and Consent
+Roy, Dibyadyuti; Dahiya, Lavanya; Dahiya, Vasundhra  355
+The Interpretation of Dreams: A Case Study in Virtual Reality Filmmaking and the Remediation of Psychoanalytic Theory
+Sack, Graham Alexander  357
+Comparing Symbolism Across Asian Cultural Contexts Using Graph Similarity Measures
+Sartini, Bruno; Vogelmann, Valentin; Van Erp, Marieke; Gangemi, Aldo  358
+Inner- and Intra-genre Citation Patterns in Film
+Schneider, Stefanie . 361
+Annotating 3D Scholarly Editions
+Schreibman, Susan; Papadopoulos, Costas . 364
+Measuring Space in German Novels
+Schumacher, Mareike Katharina . 365
+The model of choice.Using pure CRF- and BERT-based classifiers for gender annotation in German fantasy fiction
+Schumacher, Mareike Katharina; Flüh, Marie; Lemke, Marc . 368
+Systems of Sentencing in Medieval Inquisitorial Records: semantic text modelling as a platform for computational analysis
+Shaw, Robert L. J.  370
+Poetry as Error. A ‘Tool Misuse’ Experiment on the Processing of German Language Poetry
+Sluyter-Gäthje, Henny; Trilcke, Peer . 372
+Digital Humanities and Replication. Ingredients for a Love Story – Experiences from the ‘(Re)counting the Uncounted’ Project
+Stapel, Rombert  375
+Describing Handwriting in Context
+Stokes, Peter Anthony  378
+Towards a crowdsourced linked open knowledge base of East Asian historical sources
+Sturgeon, Donald . 380
+Intertextuality in Large-Scale East Asian and Western European Corpora
+Tharsen, Jeffrey; Gladstone, Clovis  382
+Connecting Digital Systems for whom and by whom? Taking Stock of the Digital Research Infrastructures in China
+Tsui, Lik Hang; Chen, Jing . 385
+Object constitution in digital collections: An Ethnomethodological View
+Türkoglu, Enes; Mertgens, Andreas  386
+Using Temporal Information on Topic Mining
+Uno, Takeaki; Kobayashi, Ryota; Takedomi, Yuka; Hashimoto, Takako  388
+Reducing Redundancy Bias in Digital Library Collections
+VandenBosch, Adrienne; Organisciak, Peter; Matusiak, Krystyna K  389
+Teaching Digital Scholarly Editing North and South Through Minimal Computing
+Viglianti, Raffaele; Del Rio Riande, Gimena . 391
+DeXTER: A post-authentic approach to heritage visualisation
+Viola, Lorella . 393
+Textbooks and space – a tale of two dimensions. A GIS analysis of cultural content of language textbooks.
+Wacławik, Paulina  396
+Mining an Interpolated Commentary for Linguistic Markup
+Waxman, Joshua  397
+The Many Voices of Du Ying: Revisiting the Disputed Writings of Lu Xun and Zhou Zuoren
+Xie, Xin; Wang, Haining; Riddell, Allen . 400
+Japanese Old Maps Online for Promoting Digital Humanities
+Yano, Keiji; Natsume, Muneyuki; Imamura, Satoshi; Kamata, Ryo  404
+
+Measuring the Use of Tools and Software in the Digital Humanities: A Machine-Learning Approach for Extracting Software Mentions from Scholarly Articles
+Zarei, Alireza; Seung-Bin, Yim; Fischer, Frank; Ďurčo, Matej; Wieder, Philipp . 406
+Transfer Learning for Olfactory Object Detection
+Zinnen, Mathias; Madhu, Prathmesh; Bell, Peter; Maier, Andreas; Christlein, Vincent . 409
+Short Presentations
+Analysis of the Gutenberg 42-line Bible types aided by type-image recognition
+Agata, Mari; Agata, Teru . 415
+RDF-star-based Digital Edition of Travel Journals
+Alassi, Sepideh; Rosenthaler, Lukas  416
+On Epistemic Comparability and Challenges on Data Reuse:The Experience of READ-IT
+Antonini, Alessio  417
+Salience in Literary Texts: A Combined Approach to the Relevance of Passages
+Arnold, Frederik; Fiechter, Benjamin; Gius, Evelyn; Jäschke, Robert; Martus, Steffen; Vauth, Michael  418
+Sound Predicts Meaning: Sound Iconic Relations between Vowels’ Formants and Emotional Tone in German and Japanese
+Auracher, Jan; Menninghaus, Winfried; Scharinger, Mathias . 421
+The Seven Steps: Building the DiGA Thesaurus
+Autiero, Serena; Elwert, Frederik; Moscatelli, Cristiano; Pons, Jessie  422
+Global and local citation networks as a new paradigm for multiple viewpoint investigation in historical literature: a case study of the Rabbinic literature corpus
+Ben-Gigi, Nati; Katzoff, Binyamin; Schler, Jonathan; Zhitomirsky-Geffet, Maayan  424
+A new gesture-based browsing experience for art historical research
+Bernasconi, Valentine  425
+Diachronic Lexicon Induction via Literary Translations
+Birkenes, Magnus Breder; Johnsen, Lars G.; Kåsen, Andre  427
+Fifty Shades of Twilight: Computationally Comparing Collocations in Twilight and 50 Shades of Grey
+Bordalejo, Barbara; Van Zundert, Joris J.; Neugarten, Julia . 428
+Keeping Kanji Alive: Lessons in Digital Sustainability
+Bosse, Arno; Hibino Lory, Harumi . 430
+Revealing ‘Invisible’ Poetry by W. H. Auden through Computer Vision
+Brenner, Simon; Frühwirth, Timo; Mayer, Sandra . 431
+Relating the Unread: A Data-Rich Approach to the Literary Canon and the “Great Unread”
+Brottrager, Judith  432
+VisColl 2.0 and VCEditor. A new model and tool in the quiver of codicologists and bibliographers
+Campagnolo, Alberto; Porter, Dot; Emery, Doug; Perkins, Patrick; Ransom, Lynn  433
+Nursing the Subaltern: Using Digital Prosopography to Explore the Transnational Makings of Filipino Nurses Since 1898
+Capucao. Jr., Reynaldo Caasi  435
+Take a sip of TEI and relax: a proposition for an end-to-end workflow to enrich and publish data created with automatic text recognition
+Chagué, Alix; Scheithauer, Hugo; Terriel, Lucas; Chiffoleau, Floriane; Tadjo Takianpi, Yves; Romary, Laurent . 437
+The Great Transformation of the Clan System in Early China: A Social Network Analysis of Clan-sign Inscriptions from 1300 BC to 900 BC
+Chen, Yuqi; Wang, Linxu  440
+Machines Reading Maps: from text on maps to linked spatial data
+Chiang, Yao-Yi; Holmes-Wong, Deborah; Kim, Jina; Li, Zekun; McDonough, Katherine; Simon, Rainer; Vitale, Valeria
+. 444
+The Postil Time Machine: The Lithuanian Lutheran Postils of the 16th Century
+Chiarcos, Christian; Gelumbeckaite, Jolanta; Drach, Mortimer  445
+Building infrastructure for annotating medieval, classical and pre-orthographic languages: the Pyrrha ecosystem
+Clérice, Thibault; Jolivet, Vincent; Pilla, Julien . 447
+
+The Language of Reviewers: Sentiment, Ratings, and Style in Japanese-Language Amazon Video Reviews
+Conroy, Melanie; Nishi, Hironori . 449
+Scaling Up and Scaling Down: Expanding and Contracting in the Move to Linked Data
+Crompton, Constance; Schwartz, Michelle; Dangoisse, Pascale; Lipski, Candice . 451
+Una mirada digital a cuatro obras dramáticas de Federico García Lorca. Aportes de las técnicas de visualización a la interpretación de texto dramático
+Dabrowska, Monika; Santa Maria, Teresa  452
+Word frequencies in authorship attribution: A simple tweak to improve performance
+Eder, Maciej  453
+US-CHINA ZIGZAG: Semantic shifts and sentiment analysis of the US Congress speeches on US policy towards China and Taiwan
+Elkobi, Jonathan  455
+What can stylometry and LIWC infer from Octavia E. Butler's use of 6+ letter words?
+Essam, Bacem  457
+States of the text: fixation, legitimation and multimodal publication
+Fauchié, Antoine . 458
+An experimental attempt to use Transfer Learning for Named Entity Recognition in letters from the 19th and 20th century
+Flüh, Marie; Lemke, Marc  459
+Language Model Pre-Training for Historical English: Approaches and Evaluation
+Fonteyn, Lauren; Manjavacas Arevalo, Enrique . 461
+Reconstruction of cultural memory through digital storytelling: a case study of Shanghai Memory project
+Fu, Yaming; Mahony, Simon; Liu, Wei  462
+Building inclusivity into our digitization projects- a case study of digital collections in Mexico
+Galina Russell, Isabel; Priani Saisó, Ernesto  464
+Having a Ball: A Linked Data Approach to Fancy Dress in Colonial Australia
+Gatti, Tommy; Nurmikko-Fuller, Terhi; Pickering, Paul; Swift, Ben  466
+Crowdsourced Distributed Open Collaborative Courses (DOCC) for inclusive, self-regulated learning: A study on OERs in India
+Ghosh, Sharanya; Das, Rajarshi  468
+Sentiment lexicons or BERT? A comparison of sentiment analysis approaches and their performance.
+Grisot, Giulia; Rebora, Simone; Herrmann, Berenike . 469
+Event annotation for literary corpora analysis
+Grunspan, Claude; Mélanie, Frédérique; Barré, Jean; Chardon, Laurette; Galleron, Ioana; Naguib, Marco; Plancq,
+Clément; Seminck, Olga; Poibeau, Thierry  471
+Shared Tasks in Computational Literary Studies: Guideline Creation, Annotation and Text Generation for the Analysis of Narrative Levels
+Guhr, Svenja Simone; Reiter, Nils; Zarrieß, Sina; Gius, Evelyn  472
+Towards a prosopographical ecosystem: modelling, design, and implementation issues
+Hadden, Richard William James; Schlögl, Matthias; Vogeler, Georg  474
+Lexical Semantic Change in Literary Criticism
+Haider, Thomas Nikolaus; Gittel, Benjamin  476
+“App-Solute News:” Comparison of Analog and Digital Mode in Newspaper Reading Between Intergenerational Teams
+Hartinger, Teresa; Marinšek, Urša  478
+Crowdsourcing as Collaborative Learning: A Participatory Annotation Project for the Photographic Materials of Shibusawa Eiichi
+Hashimoto, Yuta; Kim, Boyoung; Nakamura, Satoru; Kokaze, Naoki; Inoue, Sayaka; Shigehara, Toru; Nagasaki,
+Kiyonori  479
+An extensible Cor framework for textual publication and structure.
+Hayward, Nicholas John . 483
+Why arts and humanities publications get retracted: a topic modeling analysis of the retraction notices
+Heibi, Ivan; Peroni, Silvio  484
+Patterns of Verb Usage in Immanuel Kant's Critical Writings
+Heßbrüggen-Walter, Stefan; Fischer, Frank; Meier-Vieracker, Simon . 486
+
+Worlding databases: A decolonising approach to the structuring and representation of data about global arts
+Hidalgo Urbaneja, Maribel; Velios, Athanasios; Goodwin, Paul  488
+Modelling the relationship between morphosyntactic features and discourse relations in a multimodal corpus of primary school science diagrams
+Hiippala, Tuomo; Haverinen, Jonas  489
+When context matters. How to explore a knowledge graph of heraldic communication and its contexts of use in medieval and early modern Europe with methods such as graph embedding
+Hiltmann, Torsten; Schneider, Philipp  491
+Topic Modeling the Nineteenth-Century Poetry Canon
+Houston, Natalie  492
+Bert-based Chinese Buddhist Cannon Citation Extraction Model Utilizing Prior Defined Regex Pattern and Data Augmentation
+HUNG, JEN JOU; Wang, Yu-Chun . 494
+Low-stakes activities for text analysis instruction in the undergraduate classroom
+Isuster, Marcela Y.  495
+The Inevitability of a Reproducibility Crisis in the Digital Humanities
+Isuster, Marcela Y.; Rod, Alisa B.  496
+The Linked Editorial Academic Framework: Creating an editorial environment for collaborative scholarship and publication
+Jakacki, Diane Katherine; Brown, Susan; Cummings, James; Ilovan, Mihaela; Black, Carolyn  496
+Document similarity and topic clues. A historiographical study case
+Jolivet, Vincent; Torres, Sergio  497
+Information Platform for Linked Data of Regional Historical Materials and its Agent Name Finding Process
+Kameda, Akihiro; Goto, Makoto  499
+Processes and Practicalities in Developing and Sustaining a Text Mining Platform: Gale Digital Scholar Lab
+Ketchley, Sarah; Ludwig, Jess  500
+After deplatforming: digital methods for documenting Twitter and YouTube moderation
+De Keulenaar, Emillie Victoria; Kisjes, Ivan . 501
+Victorian400: Colorizing Victorian Illustrations
+Kim, Hoyeol  502
+An experiment in agent-based probabilistic city population reconstruction
+Kisjes, Ivan; Van Wissen, Leon . 503
+Data Diffraction: A Counternarrative to Integration in Digital Humanities Research
+Kleymann, Rabea  505 Contabilizar el comercio imperial: Analysis of early double-entry accounting books using the TEI/DEPCHA
+Kokaze, Naoki; Fushimi, Takeshi; Nakamura, Yusuke . 506
+Sound Iconicity and Digital Humanities. A Case Study of Spanish Golden Age Theatre
+Kroll, Simon  508
+Toward an Affordances Approach to Literacy in the Digital Humanities
+Kulkarni, Kavita  509
+Visualizing Academic Networks and Trends through Acknowledgements: Japanese Scholars in Islam-related Studies
+Kumakura, Wakako; Sunaga, Emiko  510
+Diary of our initiatory journey on the continent of data citation in SSH
+Larrousse, Nicolas; Gray, Edward; Concordia, Cesare . 512
+A unified path from data to publications: Three French infrastructures in the COMMONS project
+Larrousse, Nicolas; Pellen, Marie; Roux, Dominique; Baude, Olivier . 513
+Electronic Literature: thinking a taxonomy
+Lescouet, Emmanuelle; Vitali-Rosati, Marcello  514
+Digitizing and Recovering the Knowledge of Traditional Chinese Colour of the Nanjing Brocade
+Lin, Wensi; Chen, Jing; Zhang, Mengyue; Wang, Jisheng; Li, Mengqi  516
+Digital Archives and Political Legacies: Witll the Obama Corpus Stand the Test of Time?
+Losh, Elizabeth . 518 Improving Named-Entity Recognition on Inscriptions on ukiyo-e prints: Towards a ‘Distant Viewing’ in Art History
+Machotka, Ewa; Chatzipanagiotou, Marita; Pavlopoulos, John  519
+
+The Expert in the Loop: Developing a Provenance Linked Open Data Management Platform
+Mariani, Fabio . 520
+Pose Clustering for Martial Arts Action Recognition: the case studies of Kata and Tai Chi
+Marsocci, Valerio; Lastilla, Lorenzo  522
+Differences in Ideologies: Identifying Relevant Topics in Ecuadorian Presidential Speeches from 2007 – 2022
+Meneses, Luis  524
+Exploring the Correlations Between Picasso’s Artworks and his Personal Contacts
+Meneses, Luis; Mallen, Enrique  525
+Architectura Sinica and Collaborative Digital Database Development
+Miller, Tracy; Benda, Yuh-Fen; Zhuge, Jing; Zuo, Lala  526
+Multimodal AI support of source criticism in the humanities – work in progress
+Muenster, Sander; Bruschke, Jonas; Hoppe, Stephan; Maiwald, Ferdinand; Niebling, Florian; Pattee, Aaron;
+Utescher, Ronja; Zarriess, Sina . 527
+Semiotically Unbound: People, Pedagogies and Dialogues - Beginning to do Digital Humanities at Shanghai University.
+Murphy, Orla; Xiao, Shuang  529
+VedaWeb 2.0: Towards a Collaborative Workspace for Indo-Aryan Texts
+Neuefeind, Claes; Kölligan, Daniel; Reinöhl, Uta; Sahle, Patrick  530
+Quantifying Representations of Asian Identity in 21st-century Anglophone Fiction for Young Readers
+Nomura, Nichole Misako; Dombrowski, Quinn  532
+An International Perspective on Creating an Army of Hacker-Scholars
+Öhman, Emily Sofi . 533
+Perspectives on the Future of Digital Editions & Publishing
+O’Sullivan, James; Pidd, Michael; Murphy, Órla; Wessels, Bridgette  535
+Towards a Global Analysis of Changes in Shape over Time based on Digitised Artefacts: The East-Asian Perspective
+Pala, Giovanni; Costiner, Lisandra; Liu, Yidan; Wang, Shuofei  536
+A Method to Automatically Georeference and Estimate the Coastline Precision of Digital Historical Maps
+Pala, Giovanni Maria  538
+Modeling Chinese Contemporary Calligraphy: the WRITE Dataset
+Pasqual, Valentina; Bisceglia, Marta R.; Iezzi, Adriana; Merenda, Martina; Tomasi, Francesca . 539
+Extracting and providing online access to annotated and semantically enriched historical data.The AGODA project
+Puren, Marie Anna; Vernus, Pierre; Pellet, Aurélien; Bourgeois, Nicolas  541
+Traven between the impostors. Preliminary considerations on an authorship verification case
+Rebora, Simone; Salgaro, Massimo  544
+Callimachus: A tool for the study of the formal contents of ancient Greek papyri
+Riaño Rufilanchas, Daniel . 547
+Polyphemus, a lexical database of the Ancient Greek papyri, and the Madrid Wordlist of Ancient Greek
+Riaño Rufilanchas, Daniel . 547
+Close Reading: An Interactive Educational System for Learning How to Read Poetry
+Risha, Zak; Ma, Rongqian  549
+Asia News in the 16th and 17th Centuries: Catalogue and Digital Library
+Rojo-Mejuto, Natalia; Garrobo-Peral, Manuel . 550
+Mining and Modeling Spaces and Places for Literary History as Linked Open Data
+Röttgermann, Julia; Hinzmann, Maria; Dietz, Katharina; Gebhard, Henning; Klee, Anne; Konstanciak, Johanna;
+Schöch, Christof; Steffes, Moritz  552
+The Silences in Archives: A Case Study of Annual Reports from Archives at the National Centre for Biological Sciences, India
+Roy, Dibyadyuti; Taparia, Kanishtha; Srinivasan, Venkat . 556
+The benefits of increasing the digital availability of Alsatian theater
+Ruiz Fabo, Pablo; Werner, Carole; Bernhard, Delphine  557
+Modeling Music for Musicologists: A Linked Open Data Approach
+Saccomano, Mark; Shibata, Elisabete; Lewis, David; Hankinson, Andrew; Page, Kevin  560
+Detecting Latent Textual Bias with Topic Modeling and Sentiment Analysis
+Sanders, Ashley  561
+
+Representing scholarly statements in ontologies for data management: The case of musicology
+Sanfilippo, Emilio M.; Freedman, Richard . 563
+Visualising Women’s Lives : A Feminist Approach to Distant Reading
+Schreibman, Susan; Barget, Monika  564
+The Agency of Brokerage: Reading Positioning and Power in Character Networks
+Selisker, Scott . 566
+Genre Classification in English Poetry with Lexical and Prosodic Features
+Shang, Wenyi; Underwood, Ted . 567
+Structural Balance in the Historical Political Networks of China
+Shang, Wenyi; Chen, Song  569
+Developing a text readability system for Sesotho based on classical readability metrics
+Sibeko, Johannes; Van Zaanen, Menno . 571
+Rule-based Speaker Identification for Speech, Thought and Writing in German Literary Texts
+Sluyter-Gäthje, Henny  573
+Semantic Data Lakes for Knowledge Extraction in the Humanities: A Case Study on Bernard Berenson’s Network of Acquaintances
+Spinaci, Gianmarco; Grillo, Remo; Klic, Lukas; Bonora, Paolo . 575
+Commercial crowdsourcing in digital humanities: prospects and ethical issues
+Suviranta, Rosa; Hiippala, Tuomo  576
+Geographic analysis of published guidebooks and personal diaries on the diversity of city image in the Edo period
+SUZUKI, Chikahiko; KITAMOTO, Asanobu  578
+Digital Humanities in the Wild: Bringing Humanistic Pedagogy to Open Source
+Tagliaferri, Lisa  580
+Integrating the Japanese Archaeological Dataset into the ARIADNEplus Data Infrastructure
+Takata, Yuichi; Yanase, Peter; Niccolucci, Franco  580
+Queer Coding the Audio Archive: Linked Data and the Lesbian Organization of Toronto (LOOT) Oral History Tapes
+Tayler, Felicity; Crompton, Constance  581
+The Japanese Small World of Words. Investigating meaning through a large-scale crowdsourcing study of word associations.
+Telegina, Maria; De Deyne, Simon; Joyce, Terry; Miyao, Yusuke  582
+Metadata, Data, and Datasets: An Exercise in Excising the Web Archive for Public Consumption
+Thomas, Grace; Dooley, Chase . 584
+Infrastructural Sovereignty in the Black Atlantic
+Thorat, Dhanashree  585
+Visualizing Rare Books: A Report on Manicule
+Trettien, Whitney  586
+“Sweete Flowers and Odoriferous Beds of Spice”: Sensory Mining Techniques to Trace Olfactory Orientalism
+Tullett, William; Menini, Stefano; Leemans, Inger  587
+The Concept of Nature in German Romanticism: An Approximation
+Uglanova, Inna; Gius, Evelyn  588 Reading The Unknown with a Network Mapping Device: Graph Data Visualization for Hyperfiction Works
+Viehhauser, Gabriel; Schlesinger, Claus-Michael; Hein, Pascal; Blessing, Andre; Ulrich, Mona . 591
+Spatial accessibility of China railway transportation network in the first half of the 20th century
+Wang, Changsong; Duan, Yunxin . 593
+Modelling Time Ontology in Ancient Chinese Texts
+Wang, Linxu; Tong, Wei; Wang, Jun . 593
+Quantitative understanding of the evolution of Seo Jeong-Ju's poetic world: Keywords, topics, and sentiments.
+Wang, Sungpil; Park, Juyong . 596 Affective Writing in Ming Dynasty Huaben Stories — A Topic Modeling Study
+Wang, Yiwen; Kurzynski, Maciej  597
+Curuinsi Project: A lexical database for preserving Tikuna language
+Wicht, Bertil; Picca, Davide  597
+Learn-STATIC: Building Fundamental Digital Skills in the Humanities Classroom
+Wikle, Olivia M.; Williamson, Evan Peter; Becker, Devin; Thornhill, Kate; Hayden, Gabriele  599
+
+Teaching Basic Buddhism Using a Chatbot: Evaluation and Comparison
+Wong, Kwong-Cheong; Chan, Andrew Marcus; Law, Shun-Man; Tse, Devi  600
+From shape to culture: a computational method to extract and study the shape of vases
+Yang, Yuchen; Han, Zhitong  602
+Regularization of kinship relations to enrich the family network analysis: Case study on China Biographical Database
+Yuan, Yiguo; Li, Bin; Lu, Xuehui; Feng, Minxuan  605
+Dynamic social network tracking in literary texts
+Van Zaanen, Menno  606
+Project Overview: Resources and Applications for Detecting and Classifying Polarized and Hate Speech in Arabic Social Media
+Zaghouani, Wajdi  607
+How to Critically Utilise Wikidata – A Systematic Review of Wikidata in DH Projects
+Zhao, Fudie  608
+Multimedia Retrieval of Historical Materials
+Zhu, Jieyong; Nishimura, Taichi; Goto, Makoto; Mori, Shinsuke  610
+Electronic Posters
+The Pianolatron: Enabling Web-Based Interactive Performances of Digitized Player Piano Rolls
+Abraham, Vijoy; Arul, Kumaran; Barth, George; Broadwell, Peter; Wiles, Simon  614
+Digital City: Developing Digital Guerilla Tactics for the Urban Environment
+Altin, Ersin . 615
+Revitalizing a South Asian language with Unicode: The case of Sunuwar in Nepal
+Anderson, Deborah {Debbie}; Sunuwar, Dev Kumar  616
+RELEVEN: Re-evaluating the Eleventh Century through Linked Events and Entities
+Andrews, Tara Lee; Ebel, Carla; Richards, Nina; Prajda, Katalin; Rózsa, Márton; Anđelović, Aleksandar; Read, Lewis
+. 618
+Visualization of annotation system of the Theravada Buddhist literature
+Aono, Michihiko  619
+A Study on the Accuracy of OCR-based and NLP-based detection of Japanese Text in the HathiTrust Extracted Features v2.0 Dataset
+Bainbridge, David; Hilbing, Genna; Jiang, Ming; Hu, Yuerong; Layne-Worthey, Glen; Downie, J Stephen  620
+Creative Flows: Artistic Inspiration in/through/with Katherine Dunham’s Transnational Circulation
+Bench, Harmony; Elswit, Kate; Jimenez-Mavillard, Antonio; Uzor, Tia-Monique  621
+“The Great Wall of China” and “Hara-kiri and Feuilleton“ or how to search in a digital edition of satirical texts with a focus on the theme of “an oriental fantasy especially oriented about the orient”.
+Biber, Hanno  623
+Computational Literary Studies Infrastructure (CLS INFRA): a project to connect people, data, tools, and methods
+Birkholz, Julie; Börner, Ingo; Chambers, Sally; Charvat, Vera; Cinková, Silvie; Dejaeghere, Tess; Dudar, Julia;
+Ďurčo, Matej; Eder, Maciej; Edmond, Jennifer; Fileva, Evgeniia; Fischer, Frank; Heiden, Serge; Křen, Michal; Kunda, Bartłomiej; Mrugalski, Michał; Murphy, Ciara; Odebrecht, Carolin; Raciti, Marco; Ros, Salvador; Schöch, Christof; Šeļa, Artjoms; Tasovac, Toma; Tonra, Justin; Tóth-Czifra, Erzsébet; Trilcke, Peer; Van Dalen-Oskam, Karina; Van Rossum, Lisanne  624
+What’s new about HuNI?
+Burrows, Toby; Verhoeven, Deb  627
+“Es war einmal ” – First Sentences in Literature: A German-Language Reference Corpus
+Busch, Anna; Roeder, Torsten . 628 MIV17: a database for 17th-century manuscript culture
+Crespi, Serena Carlamaria  631
+Establishing a Code Review Community for DH
+Damerow, Julia; Sutton Koeser, Rebecca; Gao, Andrew; Vogl, Malte; Zandbank, Itay; Tharsen, Jeffrey; Casties, Robert; Westerling, Kalle; Carver, Jeffrey . 633
+
+DHTech - An ADHO Special Interest Group
+Damerow, Julia; Vogl, Malte; Casties, Robert; Gao, Andrew; Sutton Koeser, Rebecca; Tharsen, Jeffrey; Zandbank, Itay
+. 634
+Fiction, Data: Distant Reading of the Hebrew Novel
+Dekel, Yael  635
+Replicating The Riddle of Literary Quality: The litRiddle package for R
+Eder, Maciej; Lensink, Saskia; Van Zundert, Joris; Van Dalen-Oskam, Karina  636
+Dehmel digital – Algorithmic-driven indexing of historical letters
+Flüh, Marie; Bläß, Sandra  637
+Quantitative Perspectives on European Baroque Drama: Towards a Network Theory-oriented Analysis
+Giovannini, Luca . 639
+‘Double blind’ graph data analysis: a pedagogical experiment to discuss the intersubjectivity of network interpretation
+Grandjean, Martin; Jacomy, Mathieu  641 Finding Ortese’s Voice for Ferrante Fans: A Stylometric Study of Neapolitan Chronicles
+Haggin, Patience . 642
+Analysis of Exhibition Composition Using Co-occurrence Network Analysis
+Hara, Shoko; Ohmukai, Ikki; Nagasaki, Kiyonori; Takagi, Soichiro  645
+Development of datasets of the Hachidaishū and tools for the understanding of the characteristics and historical evolution of classical Japanese poetic vocabulary.
+Hodošček, Bor; Yamamoto, Hilofumi . 647 Development of a Devanāgarī Optical Character Recognition (OCR) System
+Kato, Takahiro; Tomonari, Yūki; Taniguchi, Chikamitsu; Osawa, Tomejiro; Fujimaki, Satoshi; Okada, Takashi;
+Hashimoto, Emi  648
+Analysis and Exploration of Supernatural Fanfictions from the Platform Archive of Our Own
+Kleindienst, Nina; Schmidt, Thomas; Wolff, Christian  649
+Répertoire des Écritures Numériques : archiving and qualifying electronic literature
+Lescouet, Emmanuelle; Vitali-Rosati, Marcello  653
+The Vectorian API – A Research Framework for Semantic Textual Similarity (STS) Searches
+Liebl, Bernhard; Burghardt, Manuel  654
+A Unicode Input Support Tool for Searching Chinese Characters by Components and Stroke Number
+Liu, Guanwei; Nakamura, Satoru; Yamada, Taizo  656
+Centering the Marginalized: Scholar-Curated Worksets from the HathiTrust Digital Library
+Magni, Isabella; Worthey, Glen C.; Graham, Maryemma; Walsh, John A.; Downie, J. Stephen; Dubnicek, Ryan C.
+. 658
+Responding to Tibetan Diversity: Rebuilding the Mandala Scholarly Content Management System
+Mapp, Rennie; Shinozaki, Yuji; Gunn, Stan  660
+Extraction and Automatic Generation of Characters’ Attributes in Contemporary Japanese Entertainment Works
+Murai, Hajime; Toyosawa, Shuuhei; Shiratori, Takayuki; Yoshida, Takumi; Nakamura, Shougo; Saito, Yuuri; Ishikawa,
+Kazuki; Nemoto, Sakura; Iwasaki, Junya; Ohta, Shoki; Ohba, Arisa; Fukumoto, Takaki . 661
+Building a Knowledge Base for Data-Driven Historical Information Research Infrastructure and Its Application with Historical Painting Materials
+Nakamura, Satoru; Suda, Makiko; Kuroshima, Satoru; Inoue, Satoshi; Yamada, Taizo . 663
+Introducing MPCD – Middle Persian Corpus and Dictionary
+Neuefeind, Claes; Mondaca, Francisco; Eide, Øyvind; Colditz, Iris; Jügel, Thomas; Rezania, Kianoosh; Cantera,
+Alberto; Emanuel, Chagai  665
+Do we have to limit our research question by the tool to be used? The iLCM as an example of freely extensible research software for text-based research tasks in the humanities
+Niekler, Andreas; Kahmann, Christian  667
+Application for visualizing and analyzing the historical network with context-centric model
+Ogawa, Jun; Nakamura, Satoru; Nagasaki, Kiyonori; Ohmukai, Ikki  668
+Considerations for the TEI encoding of Sino-Japanese glossed materials
+Okada, Kazuhiro . 670
+
+Handwritten Text Recognition and Palimpsest Analysis for Medieval Greek Manuscripts
+Okada, Takashi; Miyagawa, So; Kawazu, Kosei; Ishii, Tatsuya; Oka, Toshio; Fujimaki, Satoshi; Osawa, Tomejiro;
+Shiki, Yoko; Maehara, Noriko; Ishibashi, Keiichi; Sunada, Kyosuke; Nakanishi, Yasuhito  671
+Uncovering the Black Fantastic: Piloting Text Similarity Methods for Finding “Lost” Genre Fiction in HathiTrust (Poster)
+Parulian, Nikolaus Nova; Dubnicek, Ryan; Layne-Worthey, Glen; Williams, Seretha; West-White, Clarissa; Magni,
+Isabella; Downie, J. Stephen  674
+CREMMALab project
+Pinche, Ariane  676
+Buddhist Murals of Kucha on the Northern Silk Road. An Approach to Semi-Automated Annotation
+Radisch, Erik . 678
+Pragmatic Research Data Management in the Humanities: Dark and Cold Archiving at the Data Center for the Humanities
+Rau, Felix; Helling, Patrick; Barabucci, Gioele  679
+Modeling the Multivalent Perspectives of US Immigrant Narrative
+Rodrigues, Elizabeth Sarah  681
+Spatio-Temporal Analysis of the Dutch East India Company Archive through Paper Watermarks
+Sakamoto, Shouji . 682
+CanAICompose? A web-based tool for deep music generation
+Schlör, Daniel; Hotho, Andreas . 684
+Representing and Modeling Cultural Relevance in Corpora for Historical Analysis
+Schroeter, Julian  686
+Developing a Comprehensive Application for Digital Transformation of Historical Materials
+Shibutani, Ayako; Nakamura, Satoru; Yamada, Taizo; Yanbe, Koki  687
+Un nouveau partenariat sur les éditions critiques en contexte numérique
+Sinatra, Michael; Vitali-Rosati, Marcello; Chateau-Dutier, Emmanuel . 689
+HTR2CritEd: A Semi-Automatic Pipeline to Produce a Critical Digital Edition of Literary Texts with Multiple Witnesses out of Text Created through Handwritten Text Recognition
+Stoekl Ben Ezra, Daniel; Lapin, Hayim; Brown-DeVost, Bronson; Jablonski, Pawel  690
+Acceptable/Unacceptable/In-between Sentences in Japanese: An Experimental Study on Long-Distance Numeral Quantifiers
+Suzuki, Kazunori; Hirano, Michiru; Yamamoto, Hilofumi . 691
+Characterizing playing style with speed deviation
+Takahashi, Mai; Kobayashi, Michikazu; Ohmukai, Ikki . 692
+Extracting clichés: Typify slanderous expressions against the confessions in the #MeToo movement
+Takedomi, Yuka; Suda, Towa; Kurita, Kazuhiro; Kobayashi, Ryota; Matsuda, Tomohiro; Uno, Takeaki  695
+Automatic matching method of historical event text with its corresponding thematic maps developed for the application of the ShiJi Spatio-Temporal Information Platform
+Tsai, Jung-Yi; Pai, Pi-Ling; Liao, Hsiung-Ming; Chen, You-Jun; Tsai, Richard Tzong-Han; Fan, I-Chun  696
+Using Automated Textual Analysis to Study Concepts of Identity and Difference in First-Person Narrative
+Wang, Yadi; Cole, Camille Lyans; Fields, Sam E.; Saelid, Daniel P.; Chen, Annie T. . 697
+Issues on Text Encoding of an East Asian Literature
+Wang, Yifan; Nagasaki, Kiyonori; Shimoda, Masahiro  698
+Distance Reading Mary McCleod Bethune and the Black Fantastic
+Williams, Seretha D.; West-White, Clarissa; Kizer, Ianna; Dickey, Tierany; Albury, Lauren  700
+Humanities Data Inquiry: A Community of Practice Exploring Data Issues in the Humanities and Heritage Research
+Woods, Nathan; Bordalejo, Barbara; O'Donnell, Daniel  701
+Distant Reading of the German Coalition Deal
+Zylla, Michael; Haider, Thomas Nikolaus 
